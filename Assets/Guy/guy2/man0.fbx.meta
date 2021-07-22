@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 0c4dfe6355b57594a94acd5cefc44224
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4638563617636358423
+    second: Sneakers.004|eyes_low|Take 001|BaseLayer
+  - first:
+      74: -510566263815937886
+    second: Sneakers.004|eyes_low|Take 001|BaseLayer.001
+  - first:
+      74: 4286900246463141177
+    second: Sneakers.004|Sneakers.001|Take 001|BaseLayer
+  - first:
+      74: 516449246865047960
+    second: Sneakers.004|Sneakers.001|Take 001|BaseLayer.001
+  - first:
+      74: -3325235349767346082
+    second: Sneakers.004|Sneakers.002|Take 001|BaseLayer
+  - first:
+      74: -2475470910891964316
+    second: Sneakers.004|Sneakers.002|Take 001|BaseLayer.001
+  - first:
+      74: 1985481414895761450
+    second: Sneakers.004|Sneakers.003|Take 001|BaseLayer
+  - first:
+      74: -1934865279832582072
+    second: Sneakers.004|Sneakers.008|Take 001|BaseLayer
+  - first:
+      74: 7659807791783656225
+    second: Sneakers.004|Sneakers|Take 001|BaseLayer
+  - first:
+      74: -595047104491389843
+    second: Sneakers.004|Sneakers|Take 001|BaseLayer.001
+  - first:
+      74: -3176488336444791597
+    second: Sneakers.005|eyes_low|Take 001|BaseLayer
+  - first:
+      74: -8806319987266093392
+    second: Sneakers.005|eyes_low|Take 001|BaseLayer.001
+  - first:
+      74: -8563034960323285224
+    second: Sneakers.005|Sneakers.001|Take 001|BaseLayer
+  - first:
+      74: 184792917730331317
+    second: Sneakers.005|Sneakers.001|Take 001|BaseLayer.001
+  - first:
+      74: -5698631245792703911
+    second: Sneakers.005|Sneakers.002|Take 001|BaseLayer
+  - first:
+      74: -5967720230212290588
+    second: Sneakers.005|Sneakers.002|Take 001|BaseLayer.001
+  - first:
+      74: -5998718887262983926
+    second: Sneakers.005|Sneakers.003|Take 001|BaseLayer
+  - first:
+      74: 7737702711837837726
+    second: Sneakers.005|Sneakers.008|Take 001|BaseLayer
+  - first:
+      74: 5837494216899723670
+    second: Sneakers.005|Sneakers|Take 001|BaseLayer
+  - first:
+      74: -8583167981583929015
+    second: Sneakers.005|Sneakers|Take 001|BaseLayer.001
+  - first:
+      74: 2244803200666909728
+    second: Sneakers.006|eyes_low|Take 001|BaseLayer
+  - first:
+      74: -7551647407727874922
+    second: Sneakers.006|eyes_low|Take 001|BaseLayer.001
+  - first:
+      74: -2456743117013924961
+    second: Sneakers.006|Sneakers.001|Take 001|BaseLayer
+  - first:
+      74: 2293007450052897964
+    second: Sneakers.006|Sneakers.001|Take 001|BaseLayer.001
+  - first:
+      74: 1060765101546114399
+    second: Sneakers.006|Sneakers.002|Take 001|BaseLayer
+  - first:
+      74: 3759386970939722149
+    second: Sneakers.006|Sneakers.002|Take 001|BaseLayer.001
+  - first:
+      74: -1532167432794314649
+    second: Sneakers.006|Sneakers.003|Take 001|BaseLayer
+  - first:
+      74: -4398993940810962288
+    second: Sneakers.006|Sneakers.008|Take 001|BaseLayer
+  - first:
+      74: 4927544090617343194
+    second: Sneakers.006|Sneakers|Take 001|BaseLayer
+  - first:
+      74: -2228910270660160916
+    second: Sneakers.006|Sneakers|Take 001|BaseLayer.001
+  - first:
+      74: -329851176850716677
+    second: Sneakers.008|eyes_low|Take 001|BaseLayer
+  - first:
+      74: 5535130693311087157
+    second: Sneakers.008|eyes_low|Take 001|BaseLayer.001
+  - first:
+      74: 2195770364417581670
+    second: Sneakers.008|Sneakers.001|Take 001|BaseLayer
+  - first:
+      74: 5283889930116883505
+    second: Sneakers.008|Sneakers.001|Take 001|BaseLayer.001
+  - first:
+      74: -970929053543677438
+    second: Sneakers.008|Sneakers.002|Take 001|BaseLayer
+  - first:
+      74: -4624756457694894395
+    second: Sneakers.008|Sneakers.002|Take 001|BaseLayer.001
+  - first:
+      74: -8136674912927588019
+    second: Sneakers.008|Sneakers.003|Take 001|BaseLayer
+  - first:
+      74: 1800706514293265998
+    second: Sneakers.008|Sneakers.008|Take 001|BaseLayer
+  - first:
+      74: 4975344022044291262
+    second: Sneakers.008|Sneakers|Take 001|BaseLayer
+  - first:
+      74: -2420293137123937322
+    second: Sneakers.008|Sneakers|Take 001|BaseLayer.001
+  - first:
+      74: -3335877874284721170
+    second: Sneakers.003|eyes_low|Take 001|BaseLayer
+  - first:
+      74: 5065580389494425420
+    second: Sneakers.003|eyes_low|Take 001|BaseLayer.001
+  - first:
+      74: 6519014879068330459
+    second: Sneakers.003|Sneakers.001|Take 001|BaseLayer
+  - first:
+      74: 8198957907318779519
+    second: Sneakers.003|Sneakers.001|Take 001|BaseLayer.001
+  - first:
+      74: 5620864394730108947
+    second: Sneakers.003|Sneakers.002|Take 001|BaseLayer
+  - first:
+      74: 1675564152390639059
+    second: Sneakers.003|Sneakers.002|Take 001|BaseLayer.001
+  - first:
+      74: 2665348034044636942
+    second: Sneakers.003|Sneakers.003|Take 001|BaseLayer
+  - first:
+      74: -645494291744375383
+    second: Sneakers.003|Sneakers.008|Take 001|BaseLayer
+  - first:
+      74: 6594146710898691520
+    second: Sneakers.003|Sneakers|Take 001|BaseLayer
+  - first:
+      74: -5682506368060250537
+    second: Sneakers.003|Sneakers|Take 001|BaseLayer.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
